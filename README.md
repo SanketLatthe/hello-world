@@ -1,2 +1,2 @@
-# hello-world
-This is hello world to learn git
+# greetings program
+This is simple program to greet users.
